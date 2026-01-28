@@ -93,7 +93,7 @@ cd rag-support-bot
 ```bash
 python -m venv venv
 ```
-# Activate:
+#### Activate:
 
 # Windows
 ```bash
