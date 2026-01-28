@@ -132,7 +132,7 @@ export OPENAI_API_KEY="sk-xxxx"
 #### Update target website
 
 #### Edit config.py → BASE_URL = "https://your-target-site.com"
-##### https://www.airtribe.live/about-us
+#### https://www.airtribe.live/about-us
 
 #### ⚠️ These steps must be run once before starting the API
 
