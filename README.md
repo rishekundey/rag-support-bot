@@ -95,12 +95,12 @@ python -m venv venv
 ```
 #### Activate:
 
-# Windows
+#### Windows
 ```bash
 venv\Scripts\activate
 ```
 
-# Mac / Linux
+#### Mac / Linux
 ```bash
 source venv/bin/activate
 ```
@@ -115,12 +115,12 @@ pip install -r requirements.txt
 
 ## 🔑 Environment Variable
 
-# Windows
+#### Windows
 ```bash
 setx OPENAI_API_KEY "sk-xxxx"
 ```
 
-# Mac/Linux
+#### Mac/Linux
 ```bash
 export OPENAI_API_KEY="sk-xxxx"
 ```
@@ -129,7 +129,7 @@ export OPENAI_API_KEY="sk-xxxx"
 
 ## 🚀 Running the Pipeline
 
-# ⚠️ These steps must be run once before starting the API
+#### ⚠️ These steps must be run once before starting the API
 
 ```bash
 python crawler.py
