@@ -129,6 +129,11 @@ export OPENAI_API_KEY="sk-xxxx"
 
 ## 🚀 Running the Pipeline
 
+#### Update target website
+
+#### Edit config.py → BASE_URL = "https://your-target-site.com"
+##### https://www.airtribe.live/about-us
+
 #### ⚠️ These steps must be run once before starting the API
 
 ```bash
